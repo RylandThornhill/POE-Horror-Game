@@ -1,5 +1,4 @@
 # This .gitignore file should be placed at the root of your Unity project directory
-#
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/
@@ -25,6 +24,9 @@
 
 # Visual Studio cache directory
 .vs/
+
+# Apple DS Files
+*.DS_Store
 
 # Gradle cache directory
 .gradle/
